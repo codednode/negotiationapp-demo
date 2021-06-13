@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{23F32842-EF7B-4A76-A5FB-F9FA73316D2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{26B05D8A-095A-41E5-AD7D-298954099E13}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{23F32842-EF7B-4A76-A5FB-F9FA73316D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F32842-EF7B-4A76-A5FB-F9FA73316D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F32842-EF7B-4A76-A5FB-F9FA73316D2E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26B05D8A-095A-41E5-AD7D-298954099E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26B05D8A-095A-41E5-AD7D-298954099E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26B05D8A-095A-41E5-AD7D-298954099E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26B05D8A-095A-41E5-AD7D-298954099E13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
